@@ -30,7 +30,7 @@
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Организация</v8:content>
+							<v8:content>Организации</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -214,7 +214,7 @@
 				<ChildObjects>
 					<Attribute uuid="c80269d1-2d84-49a6-aee4-fd0d7e3b3369">
 						<Properties>
-							<Name>Документ</Name>
+							<Name>Документы</Name>
 							<Synonym>
 								<v8:item>
 									<v8:lang>ru</v8:lang>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.17">
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="eadad484-560a-4679-8ad7-029cf4fa3538" configVersion="0adabf3fff7bed41a3b528fca227707e00000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.Цена" id="17de7003-5d6b-4c2a-a3de-256f072c4b30"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="c61129b2-e53a-41fd-ba36-20b00c37614d" configVersion="4b938c15cbea2340af452545dd0e996200000000"/>
+		<Metadata name="Document.РеализацияТоваров" id="13d058c1-119d-42fe-98ad-73d6968a5c4a" configVersion="19daaa7398450d4698ed6041e46c8b5400000000">
+			<Metadata name="Document.РеализацияТоваров.TabularSection.Продажи.Attribute.Цена" id="24240ce0-148f-4224-b85a-7ca83678208f"/>
+			<Metadata name="Document.РеализацияТоваров.TabularSection.Продажи" id="394d8e30-26f8-42f7-80c3-330323c34d2d"/>
+			<Metadata name="Document.РеализацияТоваров.TabularSection.Продажи.Attribute.Номенклатура" id="3acce31f-48ce-4e27-8995-4e1ca9b36ad8"/>
+			<Metadata name="Document.РеализацияТоваров.TabularSection.Продажи.Attribute.Количество" id="be96152b-11e5-4f3a-9995-9c2fb06a17b6"/>
+			<Metadata name="Document.РеализацияТоваров.TabularSection.Продажи.Attribute.Сумма" id="efee3acb-95a4-482f-8d1e-94da124319fd"/>
+		</Metadata>
+		<Metadata name="Document.РеализацияТоваров.Form.ФормаДокумента" id="998cc9e8-559e-49e2-9131-13d534aad30d" configVersion="c43c2e00d6280945a46fb2640ff2c9af00000000"/>
+		<Metadata name="Document.РеализацияТоваров.Form.ФормаДокумента.Form" id="998cc9e8-559e-49e2-9131-13d534aad30d.0" configVersion="6f7a26f15ea12543843b868d31facfb600000000"/>
+		<Metadata name="Document.РеализацияТоваров.ObjectModule" id="13d058c1-119d-42fe-98ad-73d6968a5c4a.0" configVersion="b8faf71f5df4cc4587513e77d75bb0bc00000000"/>
+		<Metadata name="Language.Русский" id="e9e91b56-5c8a-498f-a173-c6f8f1bc919f" configVersion="c8b4f73d77164b47acb7b78166b72ff400000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
